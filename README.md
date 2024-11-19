@@ -102,9 +102,10 @@ This project was published on my **Power BI Fabric workspace**, allowing for str
 - **Production Stage:** Final deployment and public sharing.
 
 ### Public Dashboard Access
-The interactive dashboard is accessible via this [Power BI Fabric link](#). Stakeholders can explore crime trends, rankings, and demographic insights in real time.
+The interactive dashboard is accessible via this [Power BI Fabric link](https://app.powerbi.com/view?r=eyJrIjoiMzBmNTZiNGEtNjU3NS00MzRjLTliNjYtMWYwNmZkZjRhMjYwIiwidCI6IjgwZTliY2Y3LTczYTYtNGI5OS1iZWFkLTA2MmNmZjE2MmY5NiJ9). Stakeholders can explore crime trends, rankings, and demographic insights in real time.
 
-> **Image:** Include a screenshot of the Power BI Fabric deployment pipeline.
+> **BI Fabric Deployment Pipeline:**
+![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/blob/main/Atlanta%20PD%20BI%20Fabric%20Deployment%20Pipeline%20Image.png)
 
 ---
 
@@ -126,13 +127,13 @@ Key findings from the analysis include:
 ---
 
 ## Repository Contents
-1. **Power BI File:** [Download the .pbix file](#).
-2. **Dataset:** [Download the crime dataset](#).
+1. **Power BI File:** [Download the .pbix file](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/blob/main/Atlanta%20PD%20BI%20Crime%20Analysis.pbix).
+2. **Dataset:** [Download the crime dataset](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/blob/main/Atlanta%20Crime%20Statistics%20Analysis%20with%20Power%20BI.pdf).
 3. **Screenshots:** All visuals included in this report.
-4. **Public Dashboard Link:** [Access the published dashboard here](#).
+4. **Public Dashboard Link:** [Access the published dashboard here](https://app.powerbi.com/view?r=eyJrIjoiMzBmNTZiNGEtNjU3NS00MzRjLTliNjYtMWYwNmZkZjRhMjYwIiwidCI6IjgwZTliY2Y3LTczYTYtNGI5OS1iZWFkLTA2MmNmZjE2MmY5NiJ9).
 
 ---
 
 ## Contact
 Feel free to connect with me for further inquiries:
-- [LinkedIn Profile](#)
+- [LinkedIn Profile](https://www.linkedin.com/in/thomasnyanumba) or email thomas.nnyanumba@gmail.com
