@@ -4,7 +4,7 @@
 ## Introduction
 This project, developed as part of the **Analytics Extra Mentorship Program**, is a comprehensive analysis of crime trends in Atlanta from 2015 to 2020. It examines the impact of demographic factors, neighborhood population, and external influences like the COVID-19 lockdown on crime rates. The analysis was performed using Power BI and DAX to create interactive dashboards.
 
-Our group, **AEM 9**, achieved a **Top 3 ranking out of 15 groups**, showcasing our expertise in data preparation, modeling, and visualization.
+Our group, **AEM 9**, achieved a **Top 3 ranking out of 15 groups** :🥈, showcasing our expertise in data preparation, modeling, and visualization.
 
 ---
 
